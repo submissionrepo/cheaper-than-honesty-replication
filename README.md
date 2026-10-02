@@ -7,6 +7,7 @@ Decentralized AI Evaluation into a Coin Flip**.
 
 The archive contains source code, saved experimental data, exact certificate
 scripts and witnesses, the three paper figures, and reproduction instructions.
+It includes the strict-profit certificates for both finite examples.
 
 Download and extract the archive, then run from the extracted directory:
 
